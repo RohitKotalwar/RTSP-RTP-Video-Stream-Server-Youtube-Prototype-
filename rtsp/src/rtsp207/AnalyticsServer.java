@@ -1,10 +1,8 @@
 
 /***********************************************
  * CMPE 207, Spring 2016                       *
- * TEAM 12                                     *
+ *                                             *
  **********************************************/
-
-//POOJA : START
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -50,4 +48,3 @@ public class AnalyticsServer {
 	  
 }
 
-//POOJA : END
